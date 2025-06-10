@@ -1,4 +1,4 @@
-# Hello, I'm Cooper
+# Hello, I'm Cameron
 <a href="https://linkedin.com/in/cameron-c-ba3626200/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
