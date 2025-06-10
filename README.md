@@ -6,10 +6,9 @@ I’m Navy veteran with over 13 years of experience in Counterintelligence, Huma
 
 ## Objective
 
-My profound interest in security and dedication to solving complex problems has led me to develop a passion for cybersecurity, and I'm now eager to transition into this field, specifically aiming to join a threat-hunting team. 
+My profound interest in security and dedication to solving complex problems have led me to develop a passion for cybersecurity, and I'm now eager to transition into this field, specifically aiming to join a threat-hunting team.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,7 @@ My profound interest in security and dedication to solving complex problems has 
 | OSINT & Reconnaissance                        | DFIR Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
