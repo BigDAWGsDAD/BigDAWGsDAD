@@ -13,7 +13,7 @@ My profound interest in security and dedication to solving complex problems has 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Investigative & Analytical                    | <a href="https://google.com">Detection Lab</a>|
+| Investigative & Analytical                    | <a href="https://github.com/BigDAWGsDAD/Insider-Threat-Case-Study/blob/main/README.md">Insider Threat Case Study </a>|
 | Threat Hunting & Detection                    | <a href="https://google.com">Detection Lab</a>|
 | Digitial Forensics                            | DFIR Lab|
 | Malware Analysis                              | DFIR Lab|
@@ -54,7 +54,7 @@ My profound interest in security and dedication to solving complex problems has 
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/BigDAWGsDAD/Insider-Threat-Case-Study/blob/main/README.md"> Insider Threat Case Study </a>
 - SOC Automation Project
 <!--
 **BigDAWGsDAD/BigDAWGsDAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
